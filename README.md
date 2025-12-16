@@ -4,7 +4,7 @@
 ## 👤 Informasi
 - **Nama:** [Azzahra Wahyu Olivia]  
 - **Repo:** [https://github.com/azzahrawahyu21/UAS_Dataset_TicTacToe.git]  
-- **Video:** [...]  
+- **Video:** [https://drive.google.com/file/d/1eUalwsWGJaPzIHUgr9AnehWFY5E-Krtv/view?usp=sharing]  
 
 ---
 
